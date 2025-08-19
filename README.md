@@ -5,16 +5,24 @@ Here is simple code for testing MCP2515 - TJA1050 module and XIAO Boards.
 <br>
 Control Led Brightness with Potentiometer:
 
-Demonstration (potentiometer is fully off = LED OFF)
+## Demonstration 
 
-<img width="651" alt="Image" src="https://github.com/user-attachments/assets/8d5b9564-8cfe-4889-b62c-f962ace2c954" />
+<img width="659" height="370" alt="low" src="https://github.com/user-attachments/assets/5d559ffb-cfe7-4df4-ba78-24e3ed92385a" />
+
+(potentiometer is fully off = LED OFF)
 
 <br>
+
+<img width="680" height="361" alt="mid" src="https://github.com/user-attachments/assets/cfba3c92-ce99-45da-b069-1f99353eb3cc" />
+
+(potentiometer is half on = LED LOW BRIGHTNESS)
+
 <br>
 
-Demonstration (potentiometer is fully on = LED ON)
 
-<img width="650" alt="Image" src="https://github.com/user-attachments/assets/c857cca2-5413-401d-8e12-d677a1369dfc" />
+<img width="691" height="369" alt="high" src="https://github.com/user-attachments/assets/053ef379-9e8c-4185-b462-d6fe699245c8" />
+
+(potentiometer is fully on = LED ON)
 
 <br>
 
